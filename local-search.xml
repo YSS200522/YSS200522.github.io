@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>跨境电商指南</title>
+    <link href="/2025/08/10/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E6%8C%87%E5%8D%97/"/>
+    <url>/2025/08/10/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E6%8C%87%E5%8D%97/</url>
+    
+    <content type="html"><![CDATA[<h1 id="亚马逊基础知识"><a href="#亚马逊基础知识" class="headerlink" title="亚马逊基础知识"></a>亚马逊基础知识</h1><h2 id="亚马逊账号类型介绍"><a href="#亚马逊账号类型介绍" class="headerlink" title="亚马逊账号类型介绍"></a>亚马逊账号类型介绍</h2><h3 id="1-Amazon-Seller-Central（3P账号）："><a href="#1-Amazon-Seller-Central（3P账号）：" class="headerlink" title="1.Amazon Seller Central（3P账号）："></a>1.Amazon Seller Central（3P账号）：</h3><p>○ 即第三方卖家账号，是目前最常见的卖家类型。  </p><p>○ 任何人都可以注册，回款周期短（通常为14天）。 </p><p>○ 商品页面会显示为第三方卖家，支持B2C和B2B交易。</p><h3 id="2-Amazon-Business-Seller（AB账号）："><a href="#2-Amazon-Business-Seller（AB账号）：" class="headerlink" title="2.Amazon Business Seller（AB账号）："></a>2.Amazon Business Seller（AB账号）：</h3><p>○ 可以理解为Amazon Seller Central的升级版。</p><p>○ 产品将显示为“Sold by Amazon”，页面由Amazon设计（包括图片和文本的A+页面）。</p><p>○ 如果Amazon发货，Amazon将承担所有运费和处理费。  </p><p>○ 产品会自动列入Amazon Prime，有营销工具可以使用。</p><h3 id="3-Amazon-Vendor-Central（VC账号）："><a href="#3-Amazon-Vendor-Central（VC账号）：" class="headerlink" title="3.Amazon Vendor Central（VC账号）："></a>3.Amazon Vendor Central（VC账号）：</h3><p>○ 亚马逊的供应商账号，采用邀请制入驻（目前暂时已暂停）。 </p><p>○ 完全支持A+页面，页面显示Amazon自营。  ○ 支持多样化推广方式，交易类型为B2B。</p><h3 id="4-Amazon-Vendor-Express（VE账号）："><a href="#4-Amazon-Vendor-Express（VE账号）：" class="headerlink" title="4.Amazon Vendor Express（VE账号）："></a>4.Amazon Vendor Express（VE账号）：</h3><p>○ VC的初级版本，有自己申请的渠道。</p><p>○ 只能上架有限数量的产品（如85个），不完全支持A+页面。  </p><p>○ 产品可以直接列入Prime，并提供一定的营销工具。</p><p>此外，根据注册主体的不同，Amazon Seller Central下的卖家还可以进一步分为个人卖家和专业卖家：</p><h3 id="个人卖家："><a href="#个人卖家：" class="headerlink" title="个人卖家："></a>个人卖家：</h3><p>○ 无需店铺租金，每卖出一个产品会收取0.99美金加上销售佣金。  </p><p>○ 功能和权限相对较少，如不能创建促销计划和礼品服务，没有争取获得亚马逊特色卖家的权限等。</p><h3 id="专业卖家："><a href="#专业卖家：" class="headerlink" title="专业卖家："></a>专业卖家：</h3><p>○ 需要支付39.99美金的店铺租金加上销售佣金。  </p><p>○ 拥有更多的功能和权限，如可以创建促销计划和礼品服务，有机会成为亚马逊特色卖家，可以抢获黄金购物车等。</p><p>总的来说，亚马逊账号类型多样，买家可以根据自己的需求和身份选择合适的账号类型进行购物，而卖家则需要根据自己的业务模式和经营策略选择合适的账号类型进行销售。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>知识；跨境电商</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2025/08/10/hello-world/"/>
+    <url>/2025/08/10/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
